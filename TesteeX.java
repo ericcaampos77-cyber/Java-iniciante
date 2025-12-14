@@ -33,8 +33,3 @@ public class TesteeX {
             }
             tec.close();
         }
-
-    private static double nextDouble() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-    }
-    }
